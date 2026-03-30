@@ -28,12 +28,31 @@ This repository contains lab exercises, datasets, and Jupyter notebooks for the 
   - Classification metrics and evaluation
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/IML_FS26/blob/main/week4/L04_Logistic_Regression.ipynb)
 
+<<<<<<< HEAD
 - [**Week 5**: Supervised Learning and Hyperparameter Tuning](https://github.com/zhaw-physical-ai/MLDM_HS2025/tree/main/week5)
+=======
+- [**Week 5**: Supervised Learning and Hyperparameter Tuning](https://github.com/zhaw-physical-ai/IML_FS26/tree/main/week5)
+>>>>>>> upstream/main
   - Supervised learning fundamentals
   - Hyperparameter tuning techniques
   - Learning curves and model diagnostics
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/IML_FS26/blob/main/week5/L05_Supervised_Learning.ipynb)
 
+<<<<<<< HEAD
+=======
+- [**Week 6**: Neural Networks](https://github.com/zhaw-physical-ai/IML_FS26/tree/main/week6)
+  - Neural network fundamentals
+  - Multi-layer perceptrons and deep learning
+  - Softmax activation and backpropagation
+  - [![Open In Colab](https://colab.research.google.com/github/zhaw-physical-ai/IML_FS26/blob/main/week6/L06_Neural_Networks.ipynb)
+
+- [**Week 7**: Training Neural Networks](https://github.com/zhaw-physical-ai/IML_FS26/tree/main/week7)
+  - Backpropagation algorithm and gradient computation
+  - Optimization techniques for neural network training
+  - Regularization and training strategies
+  - [![Open In Colab](https://colab.research.google.com/github/zhaw-physical-ai/IML_FS26/blob/main/week7/L07_Training_NNs.ipynb)
+
+>>>>>>> upstream/main
 
 ## How to use Google Colab
 
