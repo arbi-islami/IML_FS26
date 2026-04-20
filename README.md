@@ -46,6 +46,12 @@ This repository contains lab exercises, datasets, and Jupyter notebooks for the 
   - Regularization and training strategies
   - [![Open In Colab](https://colab.research.google.com/github/zhaw-physical-ai/IML_FS26/blob/main/week7/L07_Training_NNs.ipynb)
 
+- [**Week 8**: Support Vector Machines](https://github.com/zhaw-physical-ai/IML_FS26/tree/main/week8)
+  - Maximum margin classifiers and support vectors
+  - Soft margin and the `C` regularization parameter
+  - Kernel trick and non-linear classification (RBF kernel)
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/IML_FS26/blob/main/week8/L08_SVMs.ipynb)
+
 
 ## How to use Google Colab
 

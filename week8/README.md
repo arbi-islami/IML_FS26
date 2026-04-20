@@ -10,13 +10,13 @@ This week focuses on Support Vector Machines (SVMs), a powerful supervised learn
 
 ## Open directly the lab in Google Colab
 
-<a href="https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/week8/L08_SVMs.ipynb" target="_blank">
+<a href="https://colab.research.google.com/github/zhaw-physical-ai/IML_FS26/blob/main/week8/L08_SVMs.ipynb" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Main Lab File In Colab" width="200"/>
 </a><br></br>
 
 For the additional notebooks with examples:
 
-[![Run additional (voluntary) SVM material notebook](https://img.shields.io/badge/Colab-Run%20additional%20(voluntary)%20SVM%20material%20notebook-orange?logo=googlecolab)](https://colab.research.google.com/github/zhaw-physical-ai/MLDM_HS2025/blob/main/week8/Extra_SVM_material.ipynb)
+[![Run additional (voluntary) SVM material notebook](https://img.shields.io/badge/Colab-Run%20additional%20(voluntary)%20SVM%20material%20notebook-orange?logo=googlecolab)](https://colab.research.google.com/github/zhaw-physical-ai/IML_FS26/blob/main/week8/Extra_SVM_material.ipynb)
 
 
 
